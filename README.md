@@ -4,9 +4,9 @@ This is a Machine Learning Regression project where the aim is to predict the pr
 
 ## Description of Variables 
 Features (independent Variables):
--LSTAT: This is the percentage lower status of the population
--PTRATIO: This is the pupil-teacher ratio by town
--RM: This is the average number of rooms per dwelling
+- LSTAT: This is the percentage lower status of the population
+- PTRATIO: This is the pupil-teacher ratio by town
+- RM: This is the average number of rooms per dwelling
 
 Target variable (Dependent Variable):
 - MEDV: This is the median value of owner-occupied homes in $1000s
