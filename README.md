@@ -13,7 +13,7 @@ Target variable (Dependent Variable):
 
 ## Exploratory Data Analysis 
 The Exploratory data analysis is where I looked at the data and found some insights, for example the mean of the prices, max price, min price etc. In addition to this I also 
-look at how the features (‘RM’, ‘LSTAT’, ‘PTRATIO’) correlate with the dependent variable Price (‘MEDV’). In order to do this, I built a heatmap as well as a pair plot.
+looked at how the features (‘RM’, ‘LSTAT’, ‘PTRATIO’) correlate with the dependent variable Price (‘MEDV’). In order to do this, I built a heatmap as well as a pair plot.
 
 ## Choosing which regression model to use 
 The R2 score to evaluate our different regression model. The R2 score ranges from -1 to 1, Where -1 is the worst and 1 is the ideal model. I decided to use 5 model and
